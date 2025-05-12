@@ -42,4 +42,4 @@ cd your-repo-name
 
 🖥️ Running the App
 To run the Electron app:
- npx electron .
+-> npx electron .
