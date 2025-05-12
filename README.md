@@ -19,3 +19,27 @@
    - Outdated system updates
    - Suspicious files or processes
    - Security breaches or intrusion attempts
+🛠️ Getting Started
+Follow the steps below to install dependencies and run the Security Monitor desktop application built with Electron.
+
+📦 Prerequisites
+Node.js (v18+ recommended)
+
+npm (comes with Node.js)
+
+Git (optional, for cloning)
+
+🚀 Setup Instructions
+1. Clone the repository:
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+2. Initialize npm (if package.json doesn’t exist):
+   npm init -y
+3. Install dependencies:
+   npm install
+4. Install Electron globally (optional):
+   npm install -g electron
+
+🖥️ Running the App
+To run the Electron app:
+ npx electron .
